@@ -4,9 +4,6 @@ return {
     ft = { "java" },
     dependencies = {
       "nvim-lua/plenary.nvim",
-      "mfussenegger/nvim-dap",
-      "rcarriga/nvim-dap-ui",
-      "theHamsta/nvim-dap-virtual-text",
       "folke/which-key.nvim",
     },
     config = function()
